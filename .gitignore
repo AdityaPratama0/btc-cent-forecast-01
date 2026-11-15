@@ -1,0 +1,9 @@
+.untrusted-page/
+vendor-kit/
+artifacts/
+__pycache__/
+*.pyc
+.env
+.env.*
+wallet*.json
+out/
