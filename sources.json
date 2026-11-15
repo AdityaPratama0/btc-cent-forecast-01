@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "id": 1,
+      "url": "https://make.fun/bounty/btc-cent-forecast-01",
+      "title": "",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 2,
+      "url": "https://make.fun/api/competitions/btc-cent-forecast-01",
+      "title": "",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 3,
+      "url": "https://make.fun/api/competitions/btc-cent-forecast-01/kit",
+      "title": "",
+      "accessed": "2026-11-15"
+    },
+    {
+      "id": 4,
+      "url": "https://make.fun/c/btc-cent-forecast-01/kit",
+      "title": "",
+      "accessed": "2026-11-15"
+    }
+  ]
+}
